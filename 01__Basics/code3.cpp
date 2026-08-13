@@ -22,7 +22,7 @@ int main () {
     if (isPrime) {
         cout << num << " it is a prime number!" << endl;
     } else {
-        cout << num << "it is not a prime number!" << endl;
+        cout << num << "it is not a prime number!" << endl;2
     }
     return 0;
 }

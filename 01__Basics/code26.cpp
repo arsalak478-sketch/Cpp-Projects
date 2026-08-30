@@ -2,13 +2,10 @@
 using namespace std;
 
 int main() {
-    int num;
-    cout << "Enter the value " << endl;
-    cin >> num;
-    for( int i=0; i<num; i++) {
+    int num=2;
+    for( int i=1; i<num; i++) {
         cout <<" ";
-        for(int j=0; j<num; j++){
-            cout<<" ";
+        for(int j=1; j<num; j++){
             cout <<j;
         }
         cout << endl;

@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+void function() {
+    cout<<"Hello";
+}
+int main() {
+    function();
+    return 0;
+}
